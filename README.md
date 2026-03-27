@@ -10,7 +10,7 @@ It is designed for Quad AI School of Technology and Management to provide inform
 - Contact Page
 - Simple and Clean UI
 
-##Technologies Used
+## Technologies Used
 - HTML
 - CSS
 
