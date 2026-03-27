@@ -19,6 +19,10 @@ It is designed for Quad AI School of Technology and Management to provide inform
 2. Open index.html in any browser.
 
 
+ 
+## Author 
+**Nitin Kumar**
+
 Made with &hearts; by Nitin Kumar
 
 
